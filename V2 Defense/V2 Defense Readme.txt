@@ -12,7 +12,7 @@ _____________________________/ V2 Defense Readme \______________________________
 Author: 	Aris Sheiner
 Date: 		10/16/2013
 Class: 		CSCI 1300
-TA:			Dana Hughes
+TA:		REDACTED
 Level:		Beginner -- No prior programming experience
 
 --- Designed for Python 3
