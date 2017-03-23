@@ -14,8 +14,10 @@ TA:			Dana Hughes
 Level:		Beginner -- No prior programming experience
 
 
+-------------------- You will need PyGame to run this game, install with "pip install pygame" --------------------
+-------------------- Note: If python can't find the game files, try putting them in the home folder or opening the .py with Geany -----
 
--------------------- Note: If python can't find the game files, try putting them in the home folder or opening the .py with Geany -----------------------------------------------------------------------------
+------------------------------------------------------------------------
 
 
 
