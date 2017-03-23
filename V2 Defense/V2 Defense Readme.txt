@@ -1,5 +1,8 @@
 
-This is a game that I entered into the Intro-to-Computer-Science game-design competition at the University of Colorado at Boulder in 2013 when I was beginning to learn Python. It won the intermediate category. I've come a long way since then, but this represents my early learning experience with Python. The game isn't perfect, but it's still fun to play -- even though there is a way to never lose. 
+This is a game that I entered into the Intro-to-Computer-Science game-design competition at the University of Colorado at Boulder in 2013 when I was beginning to learn Python.
+It won the intermediate category. 
+
+I've come a long way since then, but this represents my early learning experience with Python. The game isn't perfect, but it's still fun to play -- even though there is a way to never lose. 
 
                               ___________________
 _____________________________/ V2 Defense Readme \_____________________________________________________
