@@ -1,15 +1,14 @@
 #
-# 				                  ____________
+#                                 ____________
 # _______________________________/ V2 Defense \__________________________________ 
 
 #					Aris Sheiner
 #					CSCI 1300
-#					TA: Dana Hughes
+#					TA: REDACTED
 #					Level: Beginner --- Bumped to intermediate
 
 
 
-############# Note: For me all files by the .py must be in the home folder unless you open with Geany! If that doesn't work, try Geany!!###########################
 
 
 #####	Preamble	####
