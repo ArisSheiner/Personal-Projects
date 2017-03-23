@@ -1,8 +1,10 @@
 
-This is a game that I entered into the Intro-to-Computer-Science game-design competition at the University of Colorado at Boulder in 2013 when I was beginning to learn Python.
+This is a game that I entered into the Intro-to-Computer-Science game-design competition 
+at the University of Colorado at Boulder in 2013 when I was beginning to learn Python.
 It won the intermediate category. 
 
-I've come a long way since then, but this represents my early learning experience with Python. The game isn't perfect, but it's still fun to play -- even though there is a way to never lose. 
+I've come a long way since then, but this represents my early learning experience with Python. 
+The game isn't perfect, but it's still fun to play -- even though there is a way to never lose. 
 
                               ___________________
 _____________________________/ V2 Defense Readme \_____________________________________________________
@@ -13,9 +15,9 @@ Class: 		CSCI 1300
 TA:			Dana Hughes
 Level:		Beginner -- No prior programming experience
 
-
--------------------- You will need PyGame to run this game, install with "pip install pygame" --------------------
--------------------- Note: If python can't find the game files, try putting them in the home folder or opening the .py with Geany -----
+--- Designed for Python 3
+--- You will need PyGame to run this game, install with "pip install pygame"
+--- Note: If python can't find the game files, try putting them in the home folder or opening the .py with Geany 
 
 ------------------------------------------------------------------------
 
